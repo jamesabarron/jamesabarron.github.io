@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ### Select Publications
-* **Barron, J. A.**, Wade, G. A., Folsom, C. P. (2026), The Rotational and Magnetic Properties of Polaris from Long-term Spectropolarimetric Monitoring, ApJ, 1005, 1, 112. DOI: 10.3847/1538-4357/ae77f9[doi.org/10.3847/1538-4357/ae77f9], (ADS Link)
+* **Barron, J. A.**, Wade, G. A., Folsom, C. P. (2026), The Rotational and Magnetic Properties of Polaris from Long-term Spectropolarimetric Monitoring, ApJ, 1005, 1, 112. DOI: [10.3847/1538-4357/ae77f9](doi.org/10.3847/1538-4357/ae77f9), (ADS Link)
 
 * Biswas, A., Folsom, C.P., **Barron, J. A.**, Wade, G.A., Bellotti, S., Trigilio, C. (2026), Discovery of a rapidly evolving magnetic field in the M-dwarf YZ Cet and constraints on the magnetic field of its planet 
 YZ Cet b, ApJ, 997, 2, 268 (ADS Link)
