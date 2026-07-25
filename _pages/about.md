@@ -6,6 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Publications
+======
+* Barron, J. A., Wade, G. A., Folsom, C. P. (2026), The rotational and magnetic properties of Polaris from long-term spectropolarimetric monitoring, ApJ, 1005, 1, 112, (ADS Link)
+
+* Biswas, A., Folsom, C.P., Barron, J. A., Wade, G.A., Bellotti, S., Trigilio, C. (2026), Discovery of a rapidly evolving magnetic field in the M-dwarf YZ Cet and constraints on the magnetic field of its planet 
+YZ Cet b, ApJ, 997, 2, 268 (ADS Link)
+
+* Barron, J. A., Wade, G. A., Holgado, G., & Simón-Díaz, S. (2025), A Magnetic Field Detection in the Massive O-type Bright Giant 63 Oph, ApJ, 991, 79, (ADS Link)
+
+* Wade, G. A., Oksala, M., Neiner, C., Boucher, É., & Barron, J. A. (2025), Magnetic Field Monitoring of Four Massive A–F Supergiants, ApJL, 988, L38, (ADS Link)
+
+* Biswas, A., Das, B., Barron, J. A., Wade, G. A., & Holgado, G. (2025), A Nonstop Aurora? The Intriguing Radio Emission from the Rapidly Rotating Magnetic Massive Star HR 5907, ApJ, 980, 2, 260, 
+(ADS Link)
+
+* Frost, A.J., Sana, H., Mahy, L., Wade, G., Barron, J., Le Bouquin, J.-B., Mérand, A., Schneider, F. R. N., Shenar, T., Barbá, R. H., Bowman, D. M., Frabry, M., Farhang, A., Marchant, P., Morrell, N. I., & Smoker, J. V. (2024), A magnetic massive star has experienced a stellar merger, Science, 384, 6692, 214-217, (ADS Link)
+
+* Barron, J. A., Wade, G. A., Evans, N. R., Folsom, C. P., & Neilson, H. R. (2022), Finding magnetic north: an extraordinary magnetic field detection in Polaris and first results of a magnetic survey of classical Cepheids, MNRAS, 512, 4021-4030, (ADS Link)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
