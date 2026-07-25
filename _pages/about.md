@@ -11,7 +11,6 @@ redirect_from:
 
 * Biswas, A., Folsom, C.P., **Barron, J. A.**, Wade, G.A., Bellotti, S., Trigilio, C. (2026), Discovery of a rapidly evolving magnetic field in the M-dwarf YZ Cet and constraints on the magnetic field of its planet 
 YZ Cet b, ApJ, 997, 2, 268 (ADS Link)
-
 * **Barron, J. A.**, Wade, G. A., Holgado, G., & Simón-Díaz, S. (2025), A Magnetic Field Detection in the Massive O-type Bright Giant 63 Oph, ApJ, 991, 79, (ADS Link)
 
 * Wade, G. A., Oksala, M., Neiner, C., Boucher, É., & **Barron, J. A.** (2025), Magnetic Field Monitoring of Four Massive A–F Supergiants, ApJL, 988, L38, (ADS Link)
