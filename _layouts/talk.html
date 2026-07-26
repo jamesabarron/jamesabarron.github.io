@@ -46,17 +46,20 @@ layout: default
         {% elsif page.date %}
 <p class="page__date" style="color: var(--global-text-color); font-size: 0.95em; margin: 0.2em 0;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
-</header>
-      {% endunless %}
 
-      <section class="page__content" itemprop="text">
-        {{ content }}
-        {% if page.conferenceurl or page.slidesurl %}
+{% if page.conferenceurl or page.slidesurl %}
         <p class="talk-links">
           {% if page.conferenceurl %}<a href="{{ page.conferenceurl }}" class="btn btn--info" style="text-transform: none; text-decoration: none;">Conference Website</a>{% endif %}
           {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--primary">Slides / Materials</a>{% endif %}
         </p>
 {% endif %}
+
+        </header>
+      {% endunless %}
+
+      <section class="page__content" itemprop="text">
+        {{ content }}
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
