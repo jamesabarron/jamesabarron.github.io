@@ -38,13 +38,13 @@ layout: default
           </p>
           {% endif %}
 
-          {% if page.read_time %}
+      {% if page.read_time %}
 <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         {% if page.modified %}
-<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+<p class="page__date" style="color: var(--global-text-color); font-size: 0.95em; margin: 0.2em 0;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
-<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+<p class="page__date" style="color: var(--global-text-color); font-size: 0.95em; margin: 0.2em 0;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
 </header>
       {% endunless %}
