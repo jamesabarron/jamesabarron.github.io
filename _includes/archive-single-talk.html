@@ -35,8 +35,8 @@
     {% if post.read_time %}
   <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
 {% endif %}
-{% if post.date %}<p class="page__meta" style="color: var(--global-text-color); font-size: 1.1em;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-<p class="archive__item-excerpt" itemprop="description" style="color: var(--global-text-color); font-size: 1.1em;">
+{% if post.date %}<p class="page__meta" style="color: var(--global-text-color); font-size: 0.8em;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+<p class="archive__item-excerpt" itemprop="description" style="color: var(--global-text-color); font-size: 0.8em;">
   {% if post.type %}{{ post.type }}<br>{% endif %}
   {% if post.conference %}{{ post.conference }}<br>{% endif %}
   {% if post.venue or post.location %}{{ post.venue }}{% if post.venue and post.location %}, {% endif %}{{ post.location }}{% endif %}
