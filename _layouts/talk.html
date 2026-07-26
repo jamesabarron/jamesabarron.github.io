@@ -49,7 +49,7 @@ layout: default
 
 {% if page.conferenceurl or page.slidesurl %}
         <p class="talk-links">
-          {% if page.conferenceurl %}<a href="{{ page.conferenceurl }}" class="btn btn--info" style="text-transform: none; text-decoration: none;">Conference Website</a>{% endif %}
+          {% if page.conferenceurl %}<a href="{{ page.conferenceurl }}" class="btn btn--info" style="text-transform: none; text-decoration: none; font-size: 1.05em;">Conference Website</a>{% endif %}
           {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--primary">Slides / Materials</a>{% endif %}
         </p>
 {% endif %}
@@ -57,7 +57,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content" itemprop="text" style="margin-top: 1em;"></section>
         {{ content }}
         
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
