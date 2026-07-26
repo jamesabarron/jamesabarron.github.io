@@ -32,7 +32,18 @@ YZ Cet b, ApJ, 997, 2, 268. DOI: [10.3847/1538-4357/ae2fb4](https://doi.org/10.3
 * **Barron, J. A.**, Wade, G. A., Evans, N. R., Folsom, C. P., & Neilson, H. R. (2022), Finding magnetic north: an extraordinary magnetic field detection in Polaris and first results of a magnetic survey of classical Cepheids, MNRAS, 512, 4021-4030. DOI: [10.1093/mnras/stac565](https://doi.org/10.1093/mnras/stac565), ([ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4021B/abstract))
 
 ## Masters Thesis
-**Barron, J. A.** (2023), A Systematic Study of the TESS Photometry of the Magnetic O-type Stars, MSc Thesis, Queen's University, Canada. [QSpace](http://hdl.handle.net/1974/31364), ([ADS](https://ui.adsabs.harvard.edu/abs/2023MsT..........2B/abstract))
+**Barron, J. A.** (2023), A Systematic Study of the TESS Photometry of the Magnetic O-type Stars, MSc Thesis, Queen's University, Canada. ([QSpace])(http://hdl.handle.net/1974/31364), ([ADS](https://ui.adsabs.harvard.edu/abs/2023MsT..........2B/abstract))
 
 ## Conference Proceedings 
+
+**Barron, J. A.**, Wade, G. A., Holgado, G., & Simón-Díaz, S., Discovery of a Magnetic Field in the O-type Bright Giant 63 Oph, IAUS, 402, In Press.
+
+**Barron, J. A.**, Wade, G. A., Folsom, C. P., & Kochukhov, O. (2024), First results of a magnetic survey of classical Cepheids, IAUS, 361, 233-235. DOI: [](https://doi.org/), ([ADS]())
+
+**Barron, J.**, Wade, G. A., Bowman, D. M., David-Uraz, A., Munoz, M. S., Pablo, H., & Simón-Díaz, S. (2020), MOBSTER: Identifying Candidate Magnetic O Stars through Rotational Modulation of TESS Photometry, Proceedings of the Polish Astronomical Society, 11, 226-235. DOI: [](https://doi.org/), ([ADS]())
+
+David-Uraz, A., Neiner, C., Sikora, J., **Barron, J.**, Bowman, D. M., Cerrahoğlu, P., Cohen, D. H., Erba, C., Khalack, V., Kobzar, O., Kochukhov, O., Pablo, H., Petit, V., Shultz, M. E., ud-Doula, A., Wade, G. A. (2020), Magnetic OB[A] Stars with TESS: probing their Evolutionary and Rotational properties - The MOBSTER Collaboration, Proceedings of the conference Stars and their Variability Observed from Space, held in Vienna on August 19-23, 2019. DOI: [](https://doi.org/), ([ADS]())
+
+David-Uraz, A.; Neiner, C.; Sikora, J.; **Barron, J.**; Bowman, D. M.; Cerrahoğlu, P.; Cohen, D. H.; Erba, C.; Kobzar, O.; Kochukhov, O.; Petit, V.; Shultz, M. E.; Ud-Doula, A.; Wade, G. A.; Mobster Collaboration (2020), MOBSTER: Establishing a Picture of Magnetic Massive Stars as a Population, Stellar Magnetism: A Workshop in Honour of the Career and Contributions of John D. Landstreet, held 8-11 July 2019 in London, Canada. DOI: [](https://doi.org/), ([ADS]())
+
 
