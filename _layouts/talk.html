@@ -44,7 +44,7 @@ layout: default
         {{ content }}
         {% if page.conferenceurl or page.slidesurl %}
         <p class="talk-links">
-          {% if page.conferenceurl %}<a href="{{ page.conferenceurl }}" class="btn btn--info">Conference website</a>{% endif %}
+          {% if page.conferenceurl %}<a href="{{ page.conferenceurl }}" class="btn btn--info" style="text-transform: none; text-decoration: none;">Conference Website</a>{% endif %}
           {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--primary">Slides / Materials</a>{% endif %}
         </p>
 {% endif %}
