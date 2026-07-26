@@ -32,6 +32,7 @@ YZ Cet b, ApJ, 997, 2, 268. DOI: [10.3847/1538-4357/ae2fb4](https://doi.org/10.3
 * **Barron, J. A.**, Wade, G. A., Evans, N. R., Folsom, C. P., & Neilson, H. R. (2022), Finding magnetic north: an extraordinary magnetic field detection in Polaris and first results of a magnetic survey of classical Cepheids, MNRAS, 512, 4021-4030. DOI: [10.1093/mnras/stac565](https://doi.org/10.1093/mnras/stac565), ([ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4021B/abstract))
 
 ## Masters Thesis
+**Barron, J. A.** (2023), A Systematic Study of the TESS Photometry of the Magnetic O-type Stars, MSc Thesis, Queen's University, Canada. [QSpace](http://hdl.handle.net/1974/31364), ([ADS](https://ui.adsabs.harvard.edu/abs/2023MsT..........2B/abstract))
 
 ## Conference Proceedings 
 
