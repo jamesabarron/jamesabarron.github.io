@@ -47,11 +47,13 @@ layout: default
 <p class="page__date" style="color: var(--global-text-color); font-size: 0.95em; margin: 0.2em 0;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
 
-{% if page.conferenceurl or page.slidesurl %}
+{% if page.conferenceurl or page.slidesurl or page.proceedingsurl or page.posterurl %}
         <p class="talk-links">
           {% if page.conferenceurl %}<a href="{{ page.conferenceurl }}" class="btn btn--info" style="text-transform: none; text-decoration: none; font-size: 0.9em;">Conference Website</a>{% endif %}
-          {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--primary">Slides / Materials</a>{% endif %}
-        </p>
+          {% if page.proceedingsurl %}<a href="{{ page.proceedingsurl }}" class="btn btn--primary" style="text-transform: none; text-decoration: none; font-size: 0.9em;">Proceedings</a>{% endif %}
+          {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--primary" style="text-transform: none; text-decoration: none; font-size: 0.9em;">Slides</a>{% endif %}
+          {% if page.posterurl %}<a href="{{ page.posterurl }}" class="btn btn--primary" style="text-transform: none; text-decoration: none; font-size: 0.9em;">Poster</a>{% endif %}
+</p>
 {% endif %}
 
         </header>
