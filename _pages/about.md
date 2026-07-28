@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A full list of my publications is availbale [here](https://jamesabarron.github.io/publications/).
+A full list of my publications is available [here](https://jamesabarron.github.io/publications/).
 ### Selected Publications
 * **Barron, J. A.**, Wade, G. A., Folsom, C. P. (2026), The Rotational and Magnetic Properties of Polaris from Long-term Spectropolarimetric Monitoring, ApJ, 1005, 1, 112. DOI: [10.3847/1538-4357/ae77f9](https://doi.org/10.3847/1538-4357/ae77f9), ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005..112B/abstract))
 * **Barron, J. A.**, Wade, G. A., Holgado, G., & Simón-Díaz, S. (2025), A Magnetic Field Detection in the Massive O-type Bright Giant 63 Oph, ApJ, 991, 79. DOI: [10.3847/1538-4357/adf6d9](https://doi.org/10.3847/1538-4357/adf6d9), ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...991...79B/abstract))
