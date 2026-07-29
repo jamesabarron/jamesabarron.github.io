@@ -25,7 +25,6 @@ A full list of my publications is available [here](https://jamesabarron.github.i
 Media coverage for research projects I have led or contributed to. 
 * [Astronomers unravel the mystery of the 'Dragon's Egg' nebula](https://www.reuters.com/science/astronomers-unravel-mystery-dragons-egg-nebula-2024-04-11/)  
   Reuters
-* [Beautiful nebula, violent history: clash of stars solves stellar mystery](https://www.eso.org/public/news/eso2407/)
-  ESO Press Release
+* [Beautiful nebula, violent history: clash of stars solves stellar mystery](https://www.eso.org/public/news/eso2407/)<br>ESO Press Release
 * [CFHT Chronicles: Diving into a Magnetic Polaris](https://articles.adsabs.harvard.edu/pdf/2022JRASC.116..108L)
   Journal of the Royal Astronomical Society of Canada      
