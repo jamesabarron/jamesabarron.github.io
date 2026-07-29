@@ -23,8 +23,12 @@ A full list of my publications is available [here](https://jamesabarron.github.i
 
 ## Media Highlights
 Media coverage for research projects I have led or contributed to. 
-* [Astronomers unravel the mystery of the 'Dragon's Egg' nebula](https://www.reuters.com/science/astronomers-unravel-mystery-dragons-egg-nebula-2024-04-11/)  
-  Reuters
-* [Beautiful nebula, violent history: clash of stars solves stellar mystery](https://www.eso.org/public/news/eso2407/)<br>ESO Press Release
-* [CFHT Chronicles: Diving into a Magnetic Polaris](https://articles.adsabs.harvard.edu/pdf/2022JRASC.116..108L)
-  Journal of the Royal Astronomical Society of Canada      
+
+* [Zooming in on the NGC 6164/6165 nebula surrounding the HD 148937 stellar pair](https://www.youtube.com/embed/DfYV0cZ9Ym0?si=ZHFedp79mLY2_Waa), ESO 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfYV0cZ9Ym0?si=ZHFedp79mLY2_Waa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* [Astronomers unravel the mystery of the 'Dragon's Egg' nebula](https://www.reuters.com/science/astronomers-unravel-mystery-dragons-egg-nebula-2024-04-11/), Reuters
+* [Beautiful nebula, violent history: clash of stars solves stellar mystery](https://www.eso.org/public/news/eso2407/), ESO Press Release
+* [CFHT Chronicles: Diving into a Magnetic Polaris](https://articles.adsabs.harvard.edu/pdf/2022JRASC.116..108L), Journal of the Royal Astronomical Society of Canada 
+
+
