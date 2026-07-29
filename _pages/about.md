@@ -12,6 +12,8 @@ I am an observational stellar astrophysicist and [NSERC PGS-D](https://nserc-crs
 My research seeks to answer fundamental questions about the origin, impact, and evolution of stellar magnetic fields. Specifically, I investigate the complex relationship between magnetic fields and stellar processes, including pulsation, rotation, and binary interactions. The principal tool of my research is [spectropolarimetry](https://arxiv.org/pdf/0904.1938), which enables the detection and characterization of stellar magnetic fields to [sub-Gauss precision](https://doi.org/10.1093/mnras/stac565). I interpret these fields in the broader context of individual stellar systems and stellar populations through complementary analysis of time-series photometry and high-resolution spectroscopy. My work draws on diverse astronomical observations, from ground-based facilities including the [Canada-France-Hawaii Telescope](https://www.cfht.hawaii.edu/), the [ESO 3.6-m Telescope](https://www.eso.org/public/teles-instr/lasilla/36/), and the [Gemini Observatory](https://www.gemini.edu/), as well as space missions such as [TESS](https://science.nasa.gov/mission/tess/), [Kepler](https://science.nasa.gov/mission/kepler/), and [Gaia](https://www.esa.int/Science_Exploration/Space_Science/Gaia). 
 
 ## Media Highlights
+* Journal of the Royal Astronomical Society of Canada                                                                                          
+CFHT Chronicles: Diving into a Magnetic Polaris by Mary Beth Laychak
 
 ## Selected Publications
 A full list of my publications is available [here](https://jamesabarron.github.io/publications/).
