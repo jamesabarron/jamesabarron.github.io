@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 default_theme            : "dark" # Theme shown to first-time visitors: "dark" or blank for light. Visitors' own toggle choice (sun/moon icon) still overrides this.
-title                    : "James A. Barron"
+title                    : "James A. Barron | Astrophysics"
 title_separator          : "-"
 name                     : &name "James A. Barron"
 description              : &description "James A. Barron's academic portfolio."   # Update this with a general description of your site, this is the default if not overridden by a page
