@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 default_theme            : "dark" # Theme shown to first-time visitors: "dark" or blank for light. Visitors' own toggle choice (sun/moon icon) still overrides this.
-title                    : "James A. Barron | Astrophysics"
+title                    : "James A. Barron"
 title_separator          : "-"
 name                     : &name "James A. Barron"
 description              : &description "James A. Barron's academic portfolio."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   avatar           : "52515250436-6ea8fea1ca-o1.jpg"
   name             : "James A. Barron"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate | Stellar Astrophysicist"
+  bio              : "PhD Candidate | Stellar Astrophysics"
   employer         : "https://www.queensu.ca/physics/people-search/james-barron"
   location         : "Kingston, Ontario, Canada"
   uri              : # URL
