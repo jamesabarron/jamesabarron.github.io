@@ -15,7 +15,6 @@ A full list of my publications is also available on my [ORCID profile](https://o
 * Biswas, A., Folsom, C.P., **Barron, J. A.**, Wade, G.A., Bellotti, S., Trigilio, C. (2026), Discovery of a rapidly evolving magnetic field in the M-dwarf YZ Cet and constraints on the magnetic field of its planet 
 YZ Cet b, ApJ, 997, 2, 268. DOI: [10.3847/1538-4357/ae2fb4](https://doi.org/10.3847/1538-4357/ae2fb4), ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..268B/abstract))
 <!-- -->
-
 2025
 * **Barron, J. A.**, Wade, G. A., Holgado, G., & Simón-Díaz, S. (2025), A Magnetic Field Detection in the Massive O-type Bright Giant 63 Oph, ApJ, 991, 79. DOI: [10.3847/1538-4357/adf6d9](https://doi.org/10.3847/1538-4357/adf6d9), ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...991...79B/abstract))
 <!-- -->
@@ -23,11 +22,9 @@ YZ Cet b, ApJ, 997, 2, 268. DOI: [10.3847/1538-4357/ae2fb4](https://doi.org/10.3
 <!-- -->
 * Biswas, A., Das, B., **Barron, J. A.**, Wade, G. A., & Holgado, G. (2025), A Nonstop Aurora? The Intriguing Radio Emission from the Rapidly Rotating Magnetic Massive Star HR 5907, ApJ, 980, 2, 260. DOI: [10.3847/1538-4357/adae02](https://doi.org/10.3847/1538-4357/adae02), ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..260B/abstract))
 <!-- -->
-
 2024
 * Frost, A.J., Sana, H., Mahy, L., Wade, G., **Barron, J.**, Le Bouquin, J.-B., Mérand, A., Schneider, F. R. N., Shenar, T., Barbá, R. H., Bowman, D. M., Fabry, M., Farhang, A., Marchant, P., Morrell, N. I., & Smoker, J. V. (2024), A magnetic massive star has experienced a stellar merger, Science, 384, 6692, 214-217. DOI: [10.1126/science.adg7700](https://doi.org/10.1126/science.adg7700), ([ADS](https://ui.adsabs.harvard.edu/abs/2024Sci...384..214F/abstract))
 <!-- -->
-
 2022
 * **Barron, J. A.**, Wade, G. A., Evans, N. R., Folsom, C. P., & Neilson, H. R. (2022), Finding magnetic north: an extraordinary magnetic field detection in Polaris and first results of a magnetic survey of classical Cepheids, MNRAS, 512, 4021-4030. DOI: [10.1093/mnras/stac565](https://doi.org/10.1093/mnras/stac565), ([ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4021B/abstract))
 

@@ -150,9 +150,13 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "James A. Barron"
+  links: 
+    - "https://orcid.org/0000-0003-2088-0706"
+    - "https://scholar.google.com/citations?user=UndNOsEAAAAJ&hl=en"
+    - "https://github.com/jamesabarron"
+    - "https://www.queensu.ca/physics/people-search/james-barron"
 
 
 # Analytics
