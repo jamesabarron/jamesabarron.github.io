@@ -15,6 +15,7 @@ A full list of my publications is also available on my [ORCID profile](https://o
 * Biswas, A., Folsom, C.P., **Barron, J. A.**, Wade, G.A., Bellotti, S., Trigilio, C. (2026), Discovery of a rapidly evolving magnetic field in the M-dwarf YZ Cet and constraints on the magnetic field of its planet 
 YZ Cet b, ApJ, 997, 2, 268. DOI: [10.3847/1538-4357/ae2fb4](https://doi.org/10.3847/1538-4357/ae2fb4), ([ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..268B/abstract))
 <!-- -->
+
 2025
 * **Barron, J. A.**, Wade, G. A., Holgado, G., & Simón-Díaz, S. (2025), A Magnetic Field Detection in the Massive O-type Bright Giant 63 Oph, ApJ, 991, 79. DOI: [10.3847/1538-4357/adf6d9](https://doi.org/10.3847/1538-4357/adf6d9), ([ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...991...79B/abstract))
 <!-- -->
